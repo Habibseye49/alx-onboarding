@@ -1,0 +1,7 @@
+This program calculates the sum of squares of given input numbers
+A=2
+B=4
+C=A^2
+D=B^2
+E=A+B
+Print E
